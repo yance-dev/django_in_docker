@@ -1,0 +1,2 @@
+# 基于docker的django+nginx+uwsgi+postgresql部署实践
+目前根据这个项目文件已经实验通过，后续会补上详细步骤

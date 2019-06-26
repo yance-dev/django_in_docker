@@ -23,7 +23,7 @@ services:
         - yc_api_data:/docker_api
         - ./log:/var/log/nginx
         depends_on:
-        - api4
+        - api_yc
 
     api_yc:
         container_name: yc_django_blog
